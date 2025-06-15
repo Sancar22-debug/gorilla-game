@@ -3,3 +3,4 @@ This game was created for vibe hackathon in game dev field. All assets and code 
 
 ### 3D Models & Textures: Meshy AI
 ### Code & Logic: ChatGPT, Google Gemini, and DeepSeek Coder
+### MIXAMO WAS USED FOR ANIMATIONS
